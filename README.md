@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @JCodeX-Dev
+- 👋 Hi, I’m Jeremy
 - 👀 I’m interested in Java, Spring Boot, Blockchain, Hyperledger Fabric
 - 🌱 I’m currently learning Hyperledger Fabric
 - 💞️ I’m looking to collaborate on Java based Projects
